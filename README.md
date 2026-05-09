@@ -114,6 +114,4 @@ This dashboard helps answer questions such as:
 ├── preprocessing.sql
 ├── data_for_analyse.sql
 ├── dashboardZara.pbix
-dashboard.png
-uct_ranking_dashboard.png
-└── README.md
+
