@@ -109,9 +109,4 @@ This dashboard helps answer questions such as:
 - Do promotions significantly impact sales?
 - Are seasonal products more profitable?
 
----
-## Repository Structure
-├── preprocessing.sql
-├── data_for_analyse.sql
-├── dashboardZara.pbix
 
